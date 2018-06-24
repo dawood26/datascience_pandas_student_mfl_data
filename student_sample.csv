@@ -1,0 +1,31 @@
+City/Town,ID,Last Name,First Name,State,Gender
+Los Angeles,1,DOE01,JANE01,California,Female
+Sedona,2,DOE02,JANE02,Arizona,Female
+Elmira,3,DOE01,JOE01,New York,Male
+Lackawana,4,DOE02,JOE02,New York,Male
+Defiance,5,DOE03,JOE03,Ohio,Male
+Tel Aviv,6,DOE04,JOE04,Israel,Male
+Cimax,7,DOE05,JOE05,North Carolina,Male
+Liberal,8,DOE03,JANE03,Kansas,Female
+Montreal,9,DOE04,JANE04,Canada,Female
+New York,10,DOE05,JANE05,New York,Female
+Hot Coffe,11,DOE06,JOE06,Mississippi,Male
+Java,12,DOE06,JANE06,Virginia,Female
+Varna,13,DOE07,JOE07,Bulgaria,Male
+Moscow,14,DOE08,JOE08,Russia,Male
+Drunkard Creek,15,DOE07,JANE07,New York,Female
+Mexican Hat,16,DOE08,JANE08,Utah,Female
+Amsterdam,17,DOE09,JANE09,Holland,Female
+Mexico,18,DOE10,JANE10,Mexico,Female
+Caracas,19,DOE11,JANE11,Venezuela,Female
+San Juan,20,DOE09,JOE09,Puerto Rico,Male
+Remote,21,DOE12,JANE12,Oregon,Female
+New York,22,DOE10,JOE10,New York,Male
+The X,23,DOE13,JANE13,Massachusetts ,Female
+Beijing,24,DOE14,JANE14,China,Female
+Stockholm,25,DOE11,JOE11,Sweden,Male
+Embarrass,26,DOE12,JOE12,Minnesota,Male
+Intercourse,27,DOE13,JOE13,Pennsylvania,Male
+Loco,28,DOE15,JANE15,Oklahoma,Female
+Buenos Aires,29,DOE14,JOE14,Argentina,Male
+Acme,30,DOE15,JOE15,Louisiana,Male
